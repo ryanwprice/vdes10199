@@ -37,6 +37,7 @@
 <li><a href="https://css-tricks.com/all-about-floats/">All About Floats</a></li>
 <li><a href="http://www.htmldog.com/guides/css/intermediate/layout/">HTML Dog: Page Layout</a></li>
 <li><a href="http://codepen.io/ryanwprice/full/QjwraP/">Interactive Box Model</a></li>
+- [CSS: Specificity Wars](https://stuffandnonsense.co.uk/blog/about/css-specificity-wars)
 </ul>
 <h2>Week 5</h2>
 <ul>
