@@ -76,3 +76,17 @@
 - [HTML Dog: Tables](http://www.htmldog.com/guides/html/beginner/tables/)
 - [HTML Dog: Tables: rowspan and colspan](http://www.htmldog.com/guides/html/intermediate/tables/)
 - [Homework: Clickable Photo Page](https://www.codecademy.com/courses/web-beginner-en-zrZ6c/resume?curriculum_id=50579fb998b470000202dc8b)
+
+## Week 9
+
+- [You might not need Javacript](http://youmightnotneedjs.com/)
+- [Inspect and Edit Page and Styles](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3)
+
+## Week 10
+
+- [A Dao of Web Design](http://alistapart.com/article/dao)
+- [Responsive Web Design](http://alistapart.com/article/responsive-web-design)
+- [Responsive Web Design Basics](https://developers.google.com/web/fundamentals/design-and-ui/responsive/)
+- [Font sizing with rem](https://snook.ca/archives/html_and_css/font-size-with-rem)
+- [Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+- [How to size text using ems](http://clagnut.com/blog/348/)
