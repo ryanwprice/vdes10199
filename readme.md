@@ -93,8 +93,6 @@
 
 ## Week 11
 
-## Week 11
-
 - [Zurb Foundation Download](http://foundation.zurb.com/sites/download/)
 - [Foundation for Sites](http://foundation.zurb.com/sites/docs/)
 - [Making a Basic Site with Zurb Foundations 6](https://www.youtube.com/watch?v=2QcpR6cHpnk&list=PL6oNLEZTnXsg2f3scFapWJsjywyMKpsF9)
