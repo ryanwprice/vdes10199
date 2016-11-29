@@ -98,3 +98,9 @@
 - [Making a Basic Site with Zurb Foundations 6](https://www.youtube.com/watch?v=2QcpR6cHpnk&list=PL6oNLEZTnXsg2f3scFapWJsjywyMKpsF9)
 - [The basics of the Foundation 6 Grid 
 and Mobile First](http://foundation.zurb.com/learn/foundation-6-grid-basics-mobile-first.html)
+
+## Week 12
+- [CSS Reference](http://cssreference.io/)
+- [Style vs Design](https://web.archive.org/web/20110330002948/http://www.adobe.com/designcenter/dialogbox/stylevsdesign/Style_Versus_Design.pdf)
+- [What screens Want](http://frankchimero.com/talks/what-screens-want/transcript/)
+- [Using the viewport meta tag to control layout on mobile browsers](https://developer.mozilla.org/en/docs/Mozilla/Mobile/Viewport_meta_tag)
