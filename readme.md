@@ -104,3 +104,7 @@ and Mobile First](http://foundation.zurb.com/learn/foundation-6-grid-basics-mobi
 - [Style vs Design](https://web.archive.org/web/20110330002948/http://www.adobe.com/designcenter/dialogbox/stylevsdesign/Style_Versus_Design.pdf)
 - [What screens Want](http://frankchimero.com/talks/what-screens-want/transcript/)
 - [Using the viewport meta tag to control layout on mobile browsers](https://developer.mozilla.org/en/docs/Mozilla/Mobile/Viewport_meta_tag)
+
+## Week 13
+
+- [Glyphs](	https://css-tricks.com/snippets/html/glyphs/)
