@@ -108,3 +108,7 @@ and Mobile First](http://foundation.zurb.com/learn/foundation-6-grid-basics-mobi
 ## Week 13
 
 - [Glyphs](	https://css-tricks.com/snippets/html/glyphs/)
+
+## Week 14
+
+- [Ryan's Holiday Reading List](https://ryanwprice.github.io/holiday-reading/)
